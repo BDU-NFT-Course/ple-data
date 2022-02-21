@@ -1,15 +1,15 @@
 {
-  "name": "Wisdom Hub Certificates: Level 0",
-  "description": "Personalized Learning Paths",
-  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/sample-certs/cert0.png",
+  "name": "Play Learn Earn Quest",
+  "description": "Accept these quests to guide you on your learning journey",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/ple-data/main/sample-certs/cert0.png",
   "attributes": [
       {
       "trait_type": "Level", 
       "value": 0
-    }, 
-    {
-      "trait_type": "Tutorial", 
+      }, 
+      {
+      "trait_type": "Community", 
       "value": "https://github.com/BlockDevsUnited" 
-    }
+      }
       ]
 }
