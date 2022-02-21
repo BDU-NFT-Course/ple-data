@@ -1,7 +1,7 @@
 {
   "name": "Build A Basic DApp",
-  "description": "Accept this quest and follow the BasicFrontEndTutorial to learn",
-  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/ple-data/main/sample-certs/cert1.png",
+  "description": "Accept this quest and complete the BasicFrontEndTutorial",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/ple-data/main/v2/cert1.png",
   "attributes": [
       {
       "trait_type": "Level", 

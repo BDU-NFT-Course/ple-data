@@ -1,7 +1,7 @@
 {
   "name": "Play Learn Earn Quest",
   "description": "Accept these quests to guide you on your learning journey",
-  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/ple-data/main/sample-certs/cert0.png",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/ple-data/main/v2/cert0.png",
   "attributes": [
       {
       "trait_type": "Level", 
