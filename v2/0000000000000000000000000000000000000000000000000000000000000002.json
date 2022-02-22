@@ -1,0 +1,11 @@
+{
+  "name": "Gator Bronze Certificate",
+  "description": "For setting up a digital wallet and accepting the Gator NFT Quest",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/ple-data/main/v2/cert2.jpg",
+  "attributes": [
+      {
+      "trait_type": "Level", 
+      "value": 1
+      }
+      ]
+}
